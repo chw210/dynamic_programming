@@ -20,7 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Triangle.h">
+    <ClInclude Include="Rectangular.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="109Triangle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -113,7 +113,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Triangle.h" />
+    <ClInclude Include="109Triangle.h" />
+    <ClInclude Include="Rectangular.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,12 +1,12 @@
 #include <iostream>
-#include "Rectangular.h"
+#include <vector> 
+#include "109Triangle.h"
 using namespace std;
 
 int main()
 {
-	Rectangular test1;
-	test1.set_values(3, 4);
-	cout << "Area is " << test1.area() <<endl;
+	Triangle109 test1;
+	cout << "test1 result is " << test1.minimumTotal(test1.input()) <<endl;
 	system("pause");
 	return 0;
 }
